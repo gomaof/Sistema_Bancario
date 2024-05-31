@@ -43,3 +43,16 @@ O programa deve armazenar contas em uma lista, Uma conta é composta por: Agênc
 
 -**Dica**
 Para vincular um usuário a uma conta, filtre a lista de usuários buscando o número do CPF informado para cada usuário da lista
+
+## DESAFIO 3 V.3
+
+Agora de acordo com estudo em POO **(Programação Orientada a Objetos)**, um nível um pouco mais avançado. 
+Teve algumas melhorias:
+
+- Introduzindo classes e herança para modelar o sistema bancário com mais abstração.
+
+- Utilização de classes: Cliente, PessoaFisica, Conta, ContaCorrente, Historico, e Transacao (com subclasses Saque e Deposito).
+
+- Implementação de métodos mais sofisticados para transações e manipulação de dados bancários.
+
+- Estruturação do código mais modular e reutilizável.
